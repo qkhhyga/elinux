@@ -1,4 +1,4 @@
-> 来自: [eLinux.org](http://eLinux.org/Power_Management "http://eLinux.org/Power_Management")
+> 摘自: [eLinux.org](http://eLinux.org/Power_Management "http://eLinux.org/Power_Management")
 
 
 # 电源管理
@@ -16,13 +16,14 @@
 -   [7 开源项目/邮件列表](#开源项目/邮件列表)
 
 
-## 简介 ##
+## 简介
 
 这里主要是介绍linux电源管理相关的信息。然而电源管理的存在是因为目前有很多手持和移动产品，而且消费者更加关心这些产品的电池一次充电后的续航时间。
 
 ## 电源管理技术/工程相关的页面
 
 -   [http://www.lesswatts.org/index.php](http://www.lesswatts.org/index.php) - LessWatts.org
+
     -   LessWatts.org 是一个关于如何节省已经安装linux系统的计算机能耗的网站.
 
     -   LessWatts 正在创立一个以节省linux功耗为主题的社区，带领开发者，用户，还有系统管理员一起分享节能软件，节能优化以及一些节能的方法和策略。
