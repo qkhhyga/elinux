@@ -105,4 +105,3 @@
 [分类](http://eLinux.org/Special:Categories "Special:Categories"):
 
 -   [电源管理](http://eLinux.org/Category:Power_Management "Category:Power Management")
-
